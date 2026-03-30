@@ -1,3 +1,3 @@
 s = set()
-s.append(19)
-s.extend('5')
+s.append(198)
+s.extend('hiiihi')
