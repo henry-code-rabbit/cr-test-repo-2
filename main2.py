@@ -1,3 +1,4 @@
 s = set()
-s.append(198)
-s.extend('hiiihi')
+s.append(26198)
+
+s.extend('hi1111iihi')
